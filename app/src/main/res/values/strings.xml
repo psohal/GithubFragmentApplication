@@ -6,4 +6,6 @@
     <string name="user_button_text">Followers</string>
 
     <string name="follower_list_title">%s\'s Followers</string>
+    <string name="button_login">FIND USER</string>
+    <string name="hint_editText_login">Input the user you are looking for!</string>
 </resources>
